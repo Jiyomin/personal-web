@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+ul{
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+.wrapper{
+    margin: 0 auto;
+    height: 150px;
+}
+#logo{
+    width: 200px;
+    height: 150px;
+    float: left;
+}
+#logo img{
+    position: absolute;
+    margin: 20px 0 0 20px;
+}
+
+#menu{
+    margin: 53px 200px 0 10px;
+    float: right;
+
+}
+#menu li{
+    float: left;
+}
+#menu li span{
+    display: block;
+    width: 1px;
+    height: 14px;
+    float: right;
+    margin: 0 25px;
+}
+#menu li a{
+    float: left;
+    font-size: 20px;
+    color:#626262;
+}
+.main img{
+    width: 1920px;
+    position: relative;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
